@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik. Abdul Kaleem</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 - 🔭 I’m currently working on **react js**
 
 - 🌱 I’m currently learning **spring framework**
