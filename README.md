@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shaik Abdul Kaleem</h1>
-<h3 align="center">A passionate Java Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shaik. Abdul Kaleem</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **react js**
 
-- 🌱 I’m currently learning **spring framework**
+- 🌱 I’m currently learning **spring frame work**
 
 - 👯 I’m looking to collaborate on **new technologies**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abdulkaleem84214@gmail.com**
 
-- ⚡ Fun fact **I think i am fun at my work**
+- ⚡ Fun fact **I think I am fun at my work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
