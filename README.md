@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaik. Abdul Kaleem</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **react js**
 
-- 🌱 I’m currently learning **spring frame work**
+- 🌱 I’m currently learning **spring framework**
 
 - 👯 I’m looking to collaborate on **new technologies**
 
